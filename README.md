@@ -87,7 +87,7 @@ Run ossp.c on Linux Terminal
 
 ## 👩‍💻 **Author**
 
-- **Khushi Goel** - [GitHub Profile](https://github.com/khushigoel)
+- **Khushi Goel** - [GitHub Profile](https://github.com/Khushigoel14)
 
 ---
 
