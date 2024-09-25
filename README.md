@@ -58,7 +58,7 @@ In today’s world, where multiple users interact with shared systems simultaneo
 
 Run ossp.c on Linux Terminal
 
-![Output](./screenshots/Output.png)
+![Output](Extras/Output.png)
 
 ---
 
